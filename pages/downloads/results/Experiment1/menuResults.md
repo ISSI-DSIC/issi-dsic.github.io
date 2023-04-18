@@ -8,7 +8,7 @@ layout: showResults
 
 <h1 class="title toc-ignore">Adaptive graphical menus: Experimental results</h1>
 
-<a href="https://anonexperiments.github.io/pages/Experiment-1.html">Go Back to the Experiment overview</a>
+<a href="https://issi-dsic.github.io/pages/experiment-1.html">Go Back to the Experiment overview</a>
 
 </div>
 
