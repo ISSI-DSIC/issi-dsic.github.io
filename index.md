@@ -15,8 +15,10 @@ Our current research interests include Requirements Engineering, Formal Methods,
 # Research Lines
 
 ## User Interface adaptation
+<ul>
+  <li> ### [TOSEM 2023: Comparing the Performance of Users with Adaptive User Interfaces with their Preference: An EEG Study](./another-page.html).</li>
+  <li> ### [EASE 2023 Measuring User Experience of Adaptive User Interfaces using EEG: A Replication Study](./another-page.html).</li>
+</ul>
 
-### [TOSEM 2023: Comparing the Performance of Users with Adaptive User Interfaces with their Preference: An EEG Study](./another-page.html).
 
-### [EASE 2023 Measuring User Experience of Adaptive User Interfaces using EEG: A Replication Study](./another-page.html).
 
