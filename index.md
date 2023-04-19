@@ -14,13 +14,10 @@ Our current research interests include Requirements Engineering, Formal Methods,
 
 # Research Lines
 
-## User Interface adaptation
- 
-- ### Experiments
-  - #### [2023 - TOSEM: Comparing the Performance of Users with Adaptive User Interfaces with their Preference: An EEG Study](./pages/experiment-1.html)
-  - #### [2023 - EASE: Measuring User Experience of Adaptive User Interfaces using EEG: A Replication Study](./pages/experiment-2.html)
+- ## Experiments
+  - ### [2023 - EASE: Measuring User Experience of Adaptive User Interfaces using EEG: A Replication Study](./pages/experiment-2.html)
 
-- ### Framework
-  - #### [2022 - Hacia un Framework de Adaptación Inteligente de Interfaces de Usuario](http://hdl.handle.net/11705/JISBD/2022/8212)
-  - #### [2021 - SoSyM: Model-based intelligent user interface adaptation: challenges and future directions](https://doi.org/10.1007/s10270-021-00909-7)
+- ## User Interface Adaptation Framework
+  - ### [2022 - Hacia un Framework de Adaptación Inteligente de Interfaces de Usuario](http://hdl.handle.net/11705/JISBD/2022/8212)
+  - ### [2021 - SoSyM: Model-based intelligent user interface adaptation: challenges and future directions](https://doi.org/10.1007/s10270-021-00909-7)
 
