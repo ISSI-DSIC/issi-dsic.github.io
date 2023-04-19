@@ -14,7 +14,7 @@ Our current research interests include Requirements Engineering, Formal Methods,
 
 # Research Lines
 
-- ## Experiments
+- ## Publications
   - ### [2023 - EASE: Measuring User Experience of Adaptive User Interfaces using EEG: A Replication Study](./pages/experiment-2.html)
 
 - ## User Interface Adaptation Framework
