@@ -12,9 +12,9 @@ Historically, our research efforts have resulted in  a formal, declarative objec
 
 Our current research interests include Requirements Engineering, Formal Methods, Software Architectures, Object-Oriented Modeling, Model Compilers, Aspect-Oriented Development, Distributed Systems, Software Evolution, Model Management, Workflow Management, Software Process and Agile Methods, Digital Libraries, Document Engineering and Emergency Management Systems.
 
-# Research Lines
+# Publications
 
-- ## Publications
+- ## Experiments
   - ### [2023 - EASE: Measuring User Experience of Adaptive User Interfaces using EEG: A Replication Study](./pages/experiment-2.html)
 
 - ## User Interface Adaptation Framework
