@@ -1,9 +1,6 @@
-
 ---
 layout: default
 ---
-
-
 
 # ESEM - Registered Report
 
