@@ -17,6 +17,3 @@ layout: default
 
 To be uploaded.
 
-
-
-[Go back](../)
