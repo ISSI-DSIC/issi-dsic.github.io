@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # ESEM - Registered Report
 
@@ -10,7 +7,7 @@ layout: default
 
 [Download WORD here](ESEM_RR/ESEM_RR_Reviewers_comments.docx).
 
-<embed src="ESEM_RR/ESEM_RR_Reviewers_comments.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="ESEM_RR/ESEM_RR_Reviewers_comments.pdf" type="application/pdf" width="100%" height="100%" />
 
 
 ## Manuscript
