@@ -10,7 +10,7 @@ layout: default
 
 [Download WORD here](ESEM_RR/ESEM_RR_Reviewers_comments.docx).
 
-[Online version here](ESEM_RR/ESEM_RR_Reviewers_comments.html).
+<embed src="ESEM_RR/ESEM_RR_Reviewers_comments.pdf" type="application/pdf" width="100%" height="600px" />
 
 
 ## Manuscript
